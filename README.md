@@ -21,12 +21,12 @@ The outcome of the analysis promises us to carry out further analysis on other s
 
 
 
-### 2. [Cluster Analysis on Crime data](crime-data-cluster-analysis)
+### 2. [Cluster Analysis on Crime data](https://github.com/rakeshdatascience/ML-on-Azure/tree/master/ML%20in%20Azure/crime-data-cluster-analysis)
 
 
 
 <p align="center">
-  <img src="crime-data-cluster-analysis/Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left"
+  <img src="https://github.com/rakeshdatascience/ML-on-Azure/blob/master/ML%20in%20Azure/crime-data-cluster-analysis/Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left"
  height="180px">
   </p>
   
@@ -38,12 +38,12 @@ The model built on this data with the algorithm correctly chooses number of grou
 <br/>
 
 
-### 3. [Classification on Wisconsin Breast Cancer Data](breast_cancer)
+### 3. [Classification on Wisconsin Breast Cancer Data](https://github.com/rakeshdatascience/ML-on-Azure/tree/master/ML%20in%20Azure/breast_cancer)
 
 
 
 <p align="center">
-<img src="breast_cancer/Breast_Cancer_Images/breast-cancer-in-women.jpg",alt="neofetch" align="left" 
+<img src="https://github.com/rakeshdatascience/ML-on-Azure/blob/master/ML%20in%20Azure/breast_cancer/Breast_Cancer_Images/breast-cancer-in-women.jpg",alt="neofetch" align="left" 
 height="190px">
 </p>
 
